@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QRScanner", "QRScanner\QRScanner.csproj", "{B0363D6D-0EA1-4C20-A810-90804086A366}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaterialSkin", "MaterialSkin\MaterialSkin.csproj", "{E8D66FEF-5B04-4C3C-90DC-E881E5D5F38B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QRCodeDecoder", "QRCodeDecoder\QRCodeDecoder.csproj", "{18360680-9CAA-4869-8BDD-B745115B7C16}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetupQRCapture", "SetupQRCapture\SetupQRCapture.vdproj", "{02FA6440-7862-461D-BD33-261E2A81B482}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0363D6D-0EA1-4C20-A810-90804086A366}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0363D6D-0EA1-4C20-A810-90804086A366}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0363D6D-0EA1-4C20-A810-90804086A366}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0363D6D-0EA1-4C20-A810-90804086A366}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8D66FEF-5B04-4C3C-90DC-E881E5D5F38B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8D66FEF-5B04-4C3C-90DC-E881E5D5F38B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8D66FEF-5B04-4C3C-90DC-E881E5D5F38B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8D66FEF-5B04-4C3C-90DC-E881E5D5F38B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18360680-9CAA-4869-8BDD-B745115B7C16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18360680-9CAA-4869-8BDD-B745115B7C16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18360680-9CAA-4869-8BDD-B745115B7C16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18360680-9CAA-4869-8BDD-B745115B7C16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02FA6440-7862-461D-BD33-261E2A81B482}.Debug|Any CPU.ActiveCfg = Debug
+		{02FA6440-7862-461D-BD33-261E2A81B482}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E2D7F49-EDC7-429F-9107-FDB5B184B5D7}
+	EndGlobalSection
+EndGlobal
