@@ -12,6 +12,10 @@ Take a look at this GIF demonstrating how QR-Capture makes the proces easier.
 
 ![](https://i.imgur.com/8DPIsPz.gif)
 
+# How-To
+
+This application is reasonably easy to use. When you start QR-Capture, your mouse turns into an selection-tool. You can now drag and select your QR code. QR-Capture will then show, with the text behind the QR code. If you want to scan another code, click on the image and select again. That's basically it!
+
 
 # Usages
 
