@@ -8,7 +8,7 @@ Ever need to scan a QR Code, for example for authenication, and you don't feel l
 
 I mainly made it for **authenication QR Code's**, but you can use it for any QR code. Whenever you scan a QR code that contains the **otpauth** protocol, it will filter out the secret key and automatically copy it to your clipboard, to make the proces even easier.
 
-Take a look at this GIF demonstrating how QR-Capture makes the proces easier.
+Take a look at this GIF demonstrating how QR-Capture makes the proces easier. ( **You don't need to capture the QR code accurately. You can just make a rough capture and it will work!** )
 
 ![](https://i.imgur.com/8DPIsPz.gif)
 
